@@ -1,4 +1,4 @@
-# L0 ENCOUNTER
+# ENCOUNTER
 ## Getting started
 ### Imperative programming
 ### Compiling and running
@@ -10,7 +10,7 @@
 - Iteration
 - Function calls
 - Function returns
-# L1 ACQUAINTANCE
+# ACQUAINTANCE
 ## Everything is about control
 ### Conditional execution
 ### Iterations
@@ -76,7 +76,7 @@
 ### Time
 ### Runtime environment settings
 ### Program termination and assertions
-# L2 Cognition
+# Cognition
 ## Style
 ### Formatting
 ### Naming
@@ -119,7 +119,7 @@
 ### Extended character sets
 ### Binary streams
 ### Error checking and cleanup
-# L3 Experience
+# Experience
 ## Performance
 ### Inline functions
 ### Using restrict qualifiers
