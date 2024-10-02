@@ -1,16 +1,49 @@
 # ENCOUNTER
 ## Getting started
 ### Imperative programming
+- a link between us, the human programmers, and a machine, the computer, to tell it what to do: to give it “orders.”
 ### Compiling and running
+- program text expresses what we want our computer to do
+  - we have written and stored somewhere on our hard disk
+  - as such cannot be understood by your computer
+- special program, called a compiler, that translates the C text into something that your machine can understand
 ## The principle structure of a program
 ### Grammar
+- Special words
+- Punctuations
+- Comments
+- Literals (fixed values that are part of the program)
+- Identifiers (main, printf, size_t, EXIT_SUCCESS)
+  - Functions
+  - Constants
+  - Data objects
+  - Types
+- Functions
+- Operators
 ### Declarations
+- a particular identifier in a program, we have to give the compiler a declaration
+- "declarations only,” look like this:
+  ```c
+  int main(void);
+  double A[5];
+  size_t i;
+  ```
+- size_t, and EXIT_SUCCESS, provided by stdlib.h, printf provided by stdio.h
+  - they are predeclared identifiers
+-  bound to the scope in which they appear
+  -  block scope ({  })
+  -  global (file scope)
 ### Definitions
+- Declarations specify identifiers, whereas definitions specify objects
+- An object is defined at the same time it is initialized
 ### Statements
 - Iteration
+  - for statement (for(initialization, before, after){loop body})
 - Function calls
+  - suspend the execution of the current function (at the beginning, this is usually main) and then hand over control to the named function
 - Function returns
 # ACQUAINTANCE
+- C is a permissive language
 ## Everything is about control
 ### Conditional execution
 ### Iterations
