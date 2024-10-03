@@ -1,2 +1,2 @@
 # My-Noteshub
-NotesHub Notebook
+NotesHub open Notebook
