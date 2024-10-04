@@ -96,4 +96,3 @@ Code Names and Brand Names
 The Rise of Power-Efficient Computing
 Power Density
 The Pentium M
-
