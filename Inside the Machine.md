@@ -1,28 +1,23 @@
 INSIDE THE MACHINE
 _An Illustrated Introduction to Microprocessors and Computer Architecture_
 Jon Stokes
-> “The purpose of computing is insight, not numbers.”
-> —Richard W. Hamming (1915–1998)
->> 1962, the era of digital computing was still very much in its infancy
->> Only about 10,000 computers in existence worldwide
->> *Large and expensive* 
->> Each required *teams of engineers for maintenance and operation*
->> *Laboriously* inputting long strings of numbers
->> *Waiting* for the machine to perform its calculations
->> and then *interpreting* the resulting mass of ones and zeros
->> *This tedious and pain staking process* prompted Hamming to remind his colleagues
->> the reams of numbers they worked with on a daily basis were only 
->> a means to a much higher and often non-numerical end:
->> keener insight into the world around them.
->
-> In stark contrast to the way things were 40 years ago, the experience of using a computer to do math on large sets of numbers is fairly foreign to many users, who spend only a very small fraction of their computer time explicitly performing arithmetic operations.
-> Calculator application is tucked away somewhere in a folder and accessed 
-only infrequently.
-> Calculator application is the perfect metaphor for the modern computer’s 
-***hidden identity*** as a shuffler of numbers.
-> This book is aimed at reintroducing the computer as a calculating device 
-that performs layer upon layer of miraculous sleights of hand in order *to hide 
-from the user the rapid flow of numbers* inside the machine.
+“The purpose of computing is insight, not numbers.”
+—Richard W. Hamming (1915–1998)
+1962, the era of digital computing was still very much in its infancy:
+- Only about 10,000 computers in existence worldwide
+- *Large and expensive* 
+- Each required *teams of engineers for maintenance and operation*
+- *Laboriously* inputting long strings of numbers
+- *Waiting* for the machine to perform its calculations and then *interpreting* the resulting mass of ones and zeros
+> This tedious and pain staking process prompted Hamming to remind his colleagues the reams of numbers they worked with on a daily basis were only a means to a much higher and often non-numerical end: keener insight into the world around them.
+
+In stark contrast to the way things were 40 years ago, the experience of using a computer to do math on large sets of numbers is fairly foreign to many users, who spend only a very small fraction of their computer time explicitly performing arithmetic operations. Calculator application is tucked away somewhere in a folder and accessed only infrequently. Calculator application is the perfect metaphor for the modern computer’s ==**hidden identity**== as a shuffler of numbers.
+> This book is aimed at reintroducing the computer as a calculating device that performs layer upon layer of miraculous sleights of hand in order to hide from the user the rapid flow of numbers inside the machine.
+# Introduction
+Inside the Machine is an introduction to computers:
+- ==**to fill the gap**== that exists between classic but more challenging introductions to computer architecture, like John L. Hennessy’s and David A. Patterson’s popular textbooks.
+- ==**the growing mass of works**== that are simply too basic for motivated non-specialist readers.
+- Readers with some experience using computers and with even the most minimal scripting or programming experience should finish Inside the Machine with a ==**thorough and advanced understanding**== of the high-level organization of modern computers.
 # BASIC COMPUTING CONCEPTS
 ## The Calculator Model of Computing
 ## The File-Clerk Model of Computing
