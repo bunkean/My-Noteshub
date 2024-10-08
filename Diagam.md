@@ -9,6 +9,7 @@ flowchart LR
 a --> b & c --> d
 ```
 Document your domain
+
 First create domain model
 Domain modeling is the primary way of determining the important aspects of a business.
 
