@@ -5,6 +5,6 @@
 }}%%
 sequenceDiagram
 Cook ->> Timer : Remind me in 3 minutes
-Timet --> Cook : Done!
+Timer --> Cook : Done!
 
 ```
