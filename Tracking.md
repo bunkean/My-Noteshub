@@ -1,7 +1,7 @@
 ## Hello
 ```mermaid
 %%{init:{
-"sequence":{""}
+"sequence":{"mirrorActora":false}
 }}%%
 sequenceDiagram
 Cook ->> Timer : Remind me in 3 minutes
