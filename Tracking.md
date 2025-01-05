@@ -1,6 +1,6 @@
 ## Hello
 ```mermaid
 %%{init:{
-“sequence”:{}
+"sequence":{""}
 }}%%
 ```
